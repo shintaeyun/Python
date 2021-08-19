@@ -8,7 +8,7 @@ class Email:
     print("Contents")
     print(contents)
     print("-"*20)
-
+  
 e = Email()
 e.sender = "airim@naver.com"
 recv_list = ["gwangjuai_1@likelion.net", "gwangjuai_2@likelion.net"]
