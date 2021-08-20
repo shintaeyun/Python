@@ -6,7 +6,7 @@ class Email:
     print("To:\t" + recv)
     print("Subject:" + subject)
     print("Contents")
-    print(contents)
+    print(contents)  
     print("-"*20)
   
 e = Email()
