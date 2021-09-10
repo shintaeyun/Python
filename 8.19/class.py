@@ -7,7 +7,7 @@ class Email:
     print("Subject:" + subject)
     print("Contents")
     print(contents)  
-    print("-"*20)
+    print("-"*20)  
   
 e = Email()
 e.sender = "airim@naver.com"
